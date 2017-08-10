@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Huffman Mobile</string>
+
+    <string name="empty_dir">Vacio...</string>
+    <string name="goto_root">...</string>
+     <string name="action_settings">Settings</string>
+</resources>
